@@ -1,0 +1,10 @@
+{
+    "[plaintext]": {
+        "editor.wrappingIndent": "none",
+        "editor.autoIndent": "none",
+        "editor.wordWrap": "bounded"
+    },
+    "[markdown]": {
+        "editor.fontFamily": "Sarasa Mono SC"
+    }
+}
